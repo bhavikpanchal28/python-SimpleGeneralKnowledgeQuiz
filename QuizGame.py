@@ -59,7 +59,7 @@ def play_again():
 questions = {
     "Best Superhero?: ": "A",            #Captain America
     "Who is the soccer GOAT?: ": "B",        #Messi
-    "Who is the basketball GOAT?: ": "C",
+    "Who is the basketball GOAT?: ": "C",        #Lebron
     "Greatest QB of all time?: ": "D"
 }
 
