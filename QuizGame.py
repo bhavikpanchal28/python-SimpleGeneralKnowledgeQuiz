@@ -57,7 +57,7 @@ def play_again():
         return False
 
 questions = {
-    "Best Superhero?: ": "A",
+    "Best Superhero?: ": "A",            #Captain America
     "Who is the soccer GOAT?: ": "B",
     "Who is the basketball GOAT?: ": "C",
     "Greatest QB of all time?: ": "D"
