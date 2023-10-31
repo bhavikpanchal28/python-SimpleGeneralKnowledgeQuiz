@@ -60,7 +60,7 @@ questions = {
     "Best Superhero?: ": "A",            #Captain America
     "Who is the soccer GOAT?: ": "B",        #Messi
     "Who is the basketball GOAT?: ": "C",        #Lebron
-    "Greatest QB of all time?: ": "D"
+    "Greatest QB of all time?: ": "D"            #Manning
 }
 
 options = [["A. Captain America","B. Iron-Man","C. Superman","D. Batman"],
